@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe
+
+Este proyecto es una implementación del clásico juego Tic-Tac-Toe (Tres en Raya) utilizando la biblioteca React. El objetivo del juego es alinear tres marcas iguales en una fila, columna o diagonal antes que el oponente.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
